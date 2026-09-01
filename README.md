@@ -4,7 +4,6 @@
 
 <h3 align="center">
   반갑습니다. 예진선입니다
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" width="25" height="25" />
 </h3>
 
 <p align="center">
