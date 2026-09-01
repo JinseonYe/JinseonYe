@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  반갑습니다. 예진선입니다
+  반갑습니다. 예진선입니다.
 </h3>
 
 <p align="center">
