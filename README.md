@@ -1,7 +1,7 @@
 
-### Hi, I'm **Jinseon Ye** 👋🏻 
+### 👋🏻 Nice to meet you!
 
-I'm a Backend Developer specializing in Node.js and TypeScript.  
+I'm Jinseon Ye, a Backend Developer specializing in Node.js and TypeScript.  
 I enjoy building reliable, scalable, and maintainable backend systems. 🚀
 
 ---
