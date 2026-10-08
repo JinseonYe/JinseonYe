@@ -1,19 +1,19 @@
-### 👋🏻 Nice to meet you!
 
-I’m **Jinseon Ye**, a Backend Developer specializing in Node.js and TypeScript.  
+### Hi, I'm **Jinseon Ye** 👋🏻 
+
+I'm a Backend Developer specializing in Node.js and TypeScript.  
 I enjoy building reliable, scalable, and maintainable backend systems. 🚀
 
-----
+---
 
 ### 📬 Reach me
 
-<a href="https://velog.io/@aatwe24/posts" target="_blank">
+<a href="https://velog.io/@aatwe24/posts">
   <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
 </a>
-<a href="mailto:aatwe24@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/aatwe24%40gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+<a href="mailto:aatwe24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 </a>
-
 
 ---
 
@@ -29,15 +29,13 @@ I enjoy building reliable, scalable, and maintainable backend systems. 🚀
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Transactional Outbox](https://img.shields.io/badge/Transactional%20Outbox-333333?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-
-----
+---
 
 <p align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=JinseonYe&show_icons=true&theme=radical&hide_border=true" height="180" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinseonYe&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
 </p>
+
