@@ -1,27 +1,43 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=150&section=header&text=Jinseon%27s%20GitHub&fontSize=42&fontColor=ffffff" />
-</p>
+### 👋🏻 Nice to meet you!
 
-<h3 align="center">
-  반갑습니다. 예진선입니다.
-</h3>
+I’m **Jinseon Ye**, a Backend Developer specializing in Node.js and TypeScript.  
+I enjoy building reliable, scalable, and maintainable backend systems. 🚀
 
-<p align="center">
-  💥 Skills
-</p>
+----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+### 📬 Reach me
+
+<a href="https://velog.io/@aatwe24/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logo=Velog&logoColor=white"/>
+</a>
+<a href="mailto:aatwe24@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/aatwe24%40gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+
+
+---
+
+### ⚙️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Transactional Outbox](https://img.shields.io/badge/Transactional%20Outbox-333333?style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+
+----
+
+<p align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=JinseonYe&show_icons=true&theme=radical&hide_border=true" height="180" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinseonYe&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
 </p>
